@@ -1,5 +1,7 @@
 # Reproduction: MockedProvider permanently suspends useSuspenseQuery components
 
+Repro for [apollographql/apollo-client#13289](https://github.com/apollographql/apollo-client/issues/13289).
+
 Based on [`apollographql/react-apollo-error-template`](https://github.com/apollographql/react-apollo-error-template).
 
 ## Bug
